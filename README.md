@@ -1,10 +1,11 @@
-# 📊 Team Vista HR Analytics Project – SummitEdge Consulting  
+# 📊 Team Vista HR Analytics Project – SummitEdge Consulting
 
-![HR Analytics](https://img.shields.io/badge/Domain-HR%20Analytics-blue)  
-![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)  
-![SQL](https://img.shields.io/badge/Tool-SQL-green)  
-![Python](https://img.shields.io/badge/Tool-Python-orange)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
+![HR Analytics](https://img.shields.io/badge/Domain-HR%20Analytics-blue) 
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow) 
+![SQL](https://img.shields.io/badge/Tool-SQL-green) 
+![Python](https://img.shields.io/badge/Tool-Python-orange) 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 
 ---
 
