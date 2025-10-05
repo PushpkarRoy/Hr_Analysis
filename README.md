@@ -35,7 +35,7 @@ The goal of the project is to:
 - **Distance from Home Group** → Bins: 0–5 km, 6–10 km, etc.  
 - **Total Working Years Group** → Bins: 0–10, 11–20, 21–30, 31–40.  
 - **Environment Satisfaction Level** → Converted satisfaction scores to categorical levels.  
-- **Job Satisfaction Level** → Simplified for employee happiness analysis.  
+- **Job Satisfaction Level** → Simplified for employee happiness analysis.   
 
 ---
 
