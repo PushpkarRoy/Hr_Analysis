@@ -12,7 +12,7 @@
 ## 📌 Project Overview  
 The **Team Vista HR Analytics Project** is an end-to-end HR data analysis conducted for **SummitEdge Consulting**.  
 It is based on an employee dataset from **2024**, containing **50,000+ records** and **32+ original columns**, along with several **derived columns** created for advanced analysis.  
-
+  
 The goal of the project is to:    
 - Analyze workforce demographics, compensation, and engagement.    
 - Identify trends in **attrition, job satisfaction, and performance**.     
