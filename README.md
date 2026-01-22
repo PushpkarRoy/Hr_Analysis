@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/Tool-SQL-green) 
 ![Python](https://img.shields.io/badge/Tool-Python-orange) 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
+  
 
 ---
 
