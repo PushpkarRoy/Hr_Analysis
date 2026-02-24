@@ -17,7 +17,7 @@ The goal of the project is to:
 - Analyze workforce demographics, compensation, and engagement.          
 - Identify trends in **attrition, job satisfaction, and performance**.        
 - Support **data-driven HR decisions** for employee retention, compliance, and organizational growth.               
-
+  
 --- 
    
 ## 🗂️ Dataset Information    
