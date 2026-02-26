@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
   
   
----   
+---    
 
 ## 📌 Project Overview  
 The **Team Vista HR Analytics Project** is an end-to-end HR data analysis conducted for **SummitEdge Consulting**.  
