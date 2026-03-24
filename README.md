@@ -29,7 +29,7 @@ The goal of the project is to:
 - **Education Level** → Converted numeric education to labeled scale.  
 - **Job Involvement Level** → Categorical grouping of job involvement.  
 - **Job Level (Simplified)** → Standardized levels for easier comparison.  
-- **Work-Life Balance Level** → Grouped rating for better visualization.  
+- **Work-Life Balance Level** → Grouped rating for better visualization.    
 - **Stock Option Level (Grouped)** → Categories for equity benefits.  
 - **Years at Company Group** → Bins: 0–10, 11–20, 21–30, 31–40.  
 - **Distance from Home Group** → Bins: 0–5 km, 6–10 km, etc.  
